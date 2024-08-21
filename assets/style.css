@@ -47,3 +47,8 @@ th {
   border-width: 1px;
   border-color: grey;
 }
+
+/* Additional styles */
+button {
+  cursor: pointer;
+}
